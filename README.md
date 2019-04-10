@@ -11,7 +11,7 @@ Language: Python3.6
 Hardware: GPU using Google Colab
 
 
-HW1.Polynomial Approximation using Pytorch
+[HW1]Polynomial Approximation using Pytorch
 
 
-HW2.Optimizing non-linear neural network
+[HW2]Optimizing non-linear neural network
