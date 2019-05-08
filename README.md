@@ -15,3 +15,6 @@ Hardware: GPU using Google Colab
 
 
 [HW2]Optimizing non-linear neural network
+
+
+[HW3]MLP vs CNN vs ResNet vs ResNet with Regularizer
