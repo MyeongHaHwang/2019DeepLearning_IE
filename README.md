@@ -18,3 +18,6 @@ Hardware: GPU using Google Colab
 
 
 [HW3]MLP vs CNN vs ResNet vs ResNet with Regularizer
+
+
+[HW5]Sentiment analysis on movie reviews
